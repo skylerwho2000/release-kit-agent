@@ -1,0 +1,8 @@
+test_eleventh_run_is_refused (__main__.SafetyTests.test_eleventh_run_is_refused) ... ok
+test_overly_long_input_is_rejected (__main__.SafetyTests.test_overly_long_input_is_rejected) ... ok
+test_prompt_injection_is_blocked (__main__.SafetyTests.test_prompt_injection_is_blocked) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.095s
+
+OK

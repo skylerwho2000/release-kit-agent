@@ -1,0 +1,349 @@
+{
+  "timestamp": "2026-10-24T05:35:06.749630+00:00",
+  "inputs": {
+    "artist_name": "Aero Veil",
+    "track_title": "Carbon Bloom",
+    "genre": "industrial techno",
+    "moods": [
+      "dark",
+      "driving",
+      "raw"
+    ],
+    "influences": [
+      "modular synthesis"
+    ],
+    "release_date": "2026-11-17",
+    "about": "A home studio producer exploring metallic textures.",
+    "links": "https://example.com/aero"
+  },
+  "outputs": {
+    "curators": {
+      "matches": [
+        {
+          "name": "Basement Frequency",
+          "type": "blog",
+          "subgenres": [
+            "techno",
+            "industrial techno"
+          ],
+          "vibe_tags": [
+            "raw",
+            "dark",
+            "driving"
+          ],
+          "submission_notes": "Send one track with concise context",
+          "contact_style": "Email",
+          "reason": "The track is industrial techno, matching the curator’s listed industrial techno subgenre. Its raw, dark, and driving moods match all three of the curator’s vibe tags."
+        },
+        {
+          "name": "Concrete Dreams",
+          "type": "blog",
+          "subgenres": [
+            "industrial techno",
+            "hard techno"
+          ],
+          "vibe_tags": [
+            "intense",
+            "raw",
+            "dark"
+          ],
+          "submission_notes": "One unreleased track per email",
+          "contact_style": "Email",
+          "reason": "The track’s industrial techno genre matches the curator’s industrial techno subgenre, and its raw and dark moods match two of the curator’s vibe tags."
+        },
+        {
+          "name": "Black Glass Audio",
+          "type": "curator",
+          "subgenres": [
+            "EBM",
+            "industrial techno"
+          ],
+          "vibe_tags": [
+            "mechanical",
+            "intense",
+            "shadowy"
+          ],
+          "submission_notes": "Short note and private stream",
+          "contact_style": "Email",
+          "reason": "The track’s industrial techno genre directly matches the curator’s listed subgenre. Its dark mood is also relevant to the curator’s shadowy vibe tag."
+        },
+        {
+          "name": "Club Meridian",
+          "type": "blog",
+          "subgenres": [
+            "tech house",
+            "melodic techno"
+          ],
+          "vibe_tags": [
+            "club ready",
+            "driving",
+            "polished"
+          ],
+          "submission_notes": "Include clean link and short context",
+          "contact_style": "Email",
+          "reason": "The curator’s melodic techno subgenre shares the techno element of the track’s industrial techno genre, and the track’s driving mood matches the curator’s driving vibe tag."
+        },
+        {
+          "name": "Motion Studies",
+          "type": "blog",
+          "subgenres": [
+            "progressive house",
+            "melodic techno"
+          ],
+          "vibe_tags": [
+            "emotional",
+            "driving",
+            "evolving"
+          ],
+          "submission_notes": "Include release date and artist bio",
+          "contact_style": "Email",
+          "reason": "The curator’s melodic techno subgenre shares the techno element of the track’s industrial techno genre, and the track’s driving mood matches the curator’s driving vibe tag."
+        }
+      ]
+    },
+    "bios": {
+      "short_bio": "Aero Veil is a home studio producer exploring metallic textures.",
+      "long_bio": "Aero Veil is a home studio producer exploring metallic textures, with influences that include modular synthesis.",
+      "track_description": "“Carbon Bloom” is an industrial techno track by Aero Veil, described as dark, driving, and raw. Released November 17, 2026."
+    },
+    "pitches": {
+      "pitches": [
+        {
+          "curator_name": "Basement Frequency",
+          "subject": "Aero Veil — “Carbon Bloom”",
+          "body": "Hi Basement Frequency,\n\nI’m sharing one track, “Carbon Bloom,” an industrial techno piece built around metallic textures from my home studio. Its dark, driving, raw feel seemed like a fit for your coverage.\n\nListen: https://example.com/aero\n\nBest,\nAero Veil"
+        },
+        {
+          "curator_name": "Concrete Dreams",
+          "subject": "Aero Veil — “Carbon Bloom”",
+          "body": "Hi Concrete Dreams,\n\nI’d like to submit one track, “Carbon Bloom,” an industrial techno track with a dark, raw feel. I’m a home studio producer exploring metallic textures.\n\nListen: https://example.com/aero\n\nBest,\nAero Veil"
+        },
+        {
+          "curator_name": "Black Glass Audio",
+          "subject": "Aero Veil — “Carbon Bloom”",
+          "body": "Hi Black Glass Audio,\n\nI’m sharing “Carbon Bloom,” an industrial techno track made by a home studio producer exploring metallic textures. Its dark mood may suit your shadowy sound.\n\nTrack link: https://example.com/aero\n\nBest,\nAero Veil"
+        },
+        {
+          "curator_name": "Club Meridian",
+          "subject": "Aero Veil — “Carbon Bloom”",
+          "body": "Hi Club Meridian,\n\nI’m sharing “Carbon Bloom,” a driving industrial techno track with metallic textures, made in my home studio. I thought its driving feel might fit your selections.\n\nListen: https://example.com/aero\n\nBest,\nAero Veil"
+        },
+        {
+          "curator_name": "Motion Studies",
+          "subject": "Aero Veil — “Carbon Bloom” (out 17 November 2026)",
+          "body": "Hi Motion Studies,\n\n“Carbon Bloom” is an industrial techno track by Aero Veil, a home studio producer exploring metallic textures. It has a driving feel and is scheduled for release on 17 November 2026.\n\nListen: https://example.com/aero\n\nBest,\nAero Veil"
+        }
+      ]
+    },
+    "schedule": {
+      "schedule": [
+        {
+          "day": 1,
+          "date": "2026-11-07",
+          "platform": "Social media",
+          "phase": "teaser",
+          "caption": "A metallic pulse is taking shape. Aero Veil — “Carbon Bloom,” out November 17.",
+          "hashtags": [
+            "#AeroVeil",
+            "#CarbonBloom",
+            "#IndustrialTechno"
+          ]
+        },
+        {
+          "day": 2,
+          "date": "2026-11-08",
+          "platform": "Social media",
+          "phase": "teaser",
+          "caption": "Dark, driving, raw. “Carbon Bloom” arrives November 17.",
+          "hashtags": [
+            "#CarbonBloom",
+            "#IndustrialTechno",
+            "#Techno"
+          ]
+        },
+        {
+          "day": 3,
+          "date": "2026-11-09",
+          "platform": "Social media",
+          "phase": "teaser",
+          "caption": "From a home studio, into metallic textures. “Carbon Bloom” — November 17.",
+          "hashtags": [
+            "#AeroVeil",
+            "#CarbonBloom",
+            "#ModularSynthesis"
+          ]
+        },
+        {
+          "day": 4,
+          "date": "2026-11-10",
+          "platform": "Social media",
+          "phase": "teaser",
+          "caption": "Aero Veil presents “Carbon Bloom.” Industrial techno out November 17.",
+          "hashtags": [
+            "#AeroVeil",
+            "#CarbonBloom",
+            "#IndustrialTechno"
+          ]
+        },
+        {
+          "day": 5,
+          "date": "2026-11-11",
+          "platform": "Social media",
+          "phase": "teaser",
+          "caption": "A darker, driving sound is on the way. “Carbon Bloom” lands November 17.",
+          "hashtags": [
+            "#CarbonBloom",
+            "#DarkTechno",
+            "#IndustrialTechno"
+          ]
+        },
+        {
+          "day": 6,
+          "date": "2026-11-12",
+          "platform": "Social media",
+          "phase": "teaser",
+          "caption": "Metallic textures and modular synthesis meet in “Carbon Bloom.” November 17.",
+          "hashtags": [
+            "#AeroVeil",
+            "#CarbonBloom",
+            "#ModularSynthesis"
+          ]
+        },
+        {
+          "day": 7,
+          "date": "2026-11-13",
+          "platform": "Social media",
+          "phase": "teaser",
+          "caption": "Four days until “Carbon Bloom” by Aero Veil. Out November 17.",
+          "hashtags": [
+            "#AeroVeil",
+            "#CarbonBloom",
+            "#IndustrialTechno"
+          ]
+        },
+        {
+          "day": 8,
+          "date": "2026-11-14",
+          "platform": "Social media",
+          "phase": "teaser",
+          "caption": "Raw industrial techno: “Carbon Bloom,” arriving November 17.",
+          "hashtags": [
+            "#CarbonBloom",
+            "#IndustrialTechno",
+            "#RawTechno"
+          ]
+        },
+        {
+          "day": 9,
+          "date": "2026-11-15",
+          "platform": "Social media",
+          "phase": "teaser",
+          "caption": "Two days until Aero Veil’s “Carbon Bloom.”",
+          "hashtags": [
+            "#AeroVeil",
+            "#CarbonBloom",
+            "#Techno"
+          ]
+        },
+        {
+          "day": 10,
+          "date": "2026-11-16",
+          "platform": "Social media",
+          "phase": "teaser",
+          "caption": "Tomorrow: “Carbon Bloom.” Industrial techno from Aero Veil.",
+          "hashtags": [
+            "#AeroVeil",
+            "#CarbonBloom",
+            "#IndustrialTechno"
+          ]
+        },
+        {
+          "day": 11,
+          "date": "2026-11-17",
+          "platform": "Social media",
+          "phase": "launch day",
+          "caption": "“Carbon Bloom” is out today. Listen: https://example.com/aero",
+          "hashtags": [
+            "#AeroVeil",
+            "#CarbonBloom",
+            "#IndustrialTechno"
+          ]
+        },
+        {
+          "day": 12,
+          "date": "2026-11-18",
+          "platform": "Social media",
+          "phase": "follow-up",
+          "caption": "“Carbon Bloom” is out now. Explore Aero Veil’s metallic textures: https://example.com/aero",
+          "hashtags": [
+            "#AeroVeil",
+            "#CarbonBloom",
+            "#ModularSynthesis"
+          ]
+        },
+        {
+          "day": 13,
+          "date": "2026-11-19",
+          "platform": "Social media",
+          "phase": "follow-up",
+          "caption": "Keep it dark, driving, and raw with “Carbon Bloom.” https://example.com/aero",
+          "hashtags": [
+            "#CarbonBloom",
+            "#IndustrialTechno",
+            "#DarkTechno"
+          ]
+        },
+        {
+          "day": 14,
+          "date": "2026-11-20",
+          "platform": "Social media",
+          "phase": "follow-up",
+          "caption": "Aero Veil’s “Carbon Bloom” is out now. Listen here: https://example.com/aero",
+          "hashtags": [
+            "#AeroVeil",
+            "#CarbonBloom",
+            "#Techno"
+          ]
+        }
+      ]
+    }
+  },
+  "usage": {
+    "Curator Matcher": {
+      "input_tokens": 722,
+      "cached_input_tokens": 0,
+      "output_tokens": 664,
+      "cost_usd": 0.0004042,
+      "cache_write_tokens": 0
+    },
+    "Bio Writer": {
+      "input_tokens": 206,
+      "cached_input_tokens": 0,
+      "output_tokens": 175,
+      "cost_usd": 0.0001081,
+      "cache_write_tokens": 0
+    },
+    "Pitch Writer": {
+      "input_tokens": 750,
+      "cached_input_tokens": 0,
+      "output_tokens": 665,
+      "cost_usd": 0.0004075,
+      "cache_write_tokens": 0
+    },
+    "Caption Scheduler": {
+      "input_tokens": 629,
+      "cached_input_tokens": 0,
+      "output_tokens": 1016,
+      "cost_usd": 0.0005709,
+      "cache_write_tokens": 0
+    }
+  },
+  "total_usage": {
+    "input_tokens": 2307,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 0,
+    "output_tokens": 2520,
+    "cost_usd": 0.0014907
+  },
+  "cost_note": "Repriced from stored token counts. The original run log did not record cache_write_tokens; assumed 0 for this historical recalculation."
+}

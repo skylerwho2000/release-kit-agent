@@ -1,0 +1,364 @@
+{
+  "timestamp": "2026-10-24T05:34:40.329118+00:00",
+  "inputs": {
+    "artist_name": "Mira Sol",
+    "track_title": "Glass Tides",
+    "genre": "deep house / downtempo",
+    "moods": [
+      "warm",
+      "nocturnal",
+      "reflective"
+    ],
+    "influences": [
+      "Four Tet",
+      "early Bonobo"
+    ],
+    "release_date": "2026-11-07",
+    "about": "Independent producer based in Montreal. I build tracks from field recordings and hardware synths.",
+    "links": "https://soundcloud.com/example/glass-tides"
+  },
+  "outputs": {
+    "curators": {
+      "matches": [
+        {
+          "name": "Afterhours Radio",
+          "type": "playlist",
+          "subgenres": [
+            "deep house",
+            "tech house"
+          ],
+          "vibe_tags": [
+            "late night",
+            "groovy",
+            "warm"
+          ],
+          "submission_notes": "Private SoundCloud link and a short note",
+          "contact_style": "Email",
+          "reason": "The track’s deep house genre matches directly, and its warm and nocturnal moods align with the curator’s warm and late-night tags."
+        },
+        {
+          "name": "Blue Hour Club",
+          "type": "playlist",
+          "subgenres": [
+            "deep house",
+            "melodic house"
+          ],
+          "vibe_tags": [
+            "romantic",
+            "warm",
+            "night drive"
+          ],
+          "submission_notes": "Share private link and release date",
+          "contact_style": "DM",
+          "reason": "The track is tagged deep house and warm, matching the curator’s deep house and warm tags; its nocturnal mood also fits the night-drive framing."
+        },
+        {
+          "name": "Deep End Notes",
+          "type": "blog",
+          "subgenres": [
+            "deep house",
+            "dub techno"
+          ],
+          "vibe_tags": [
+            "understated",
+            "warm",
+            "hypnotic"
+          ],
+          "submission_notes": "Send one private link",
+          "contact_style": "Email",
+          "reason": "The track’s deep house genre and warm mood are direct matches. Its reflective mood also makes this an apt fit for the curator’s understated, hypnotic vibe tags."
+        },
+        {
+          "name": "Tidal Patterns",
+          "type": "playlist",
+          "subgenres": [
+            "deep house",
+            "organic house"
+          ],
+          "vibe_tags": [
+            "flowing",
+            "warm",
+            "coastal"
+          ],
+          "submission_notes": "Include a short mood description",
+          "contact_style": "Submission form",
+          "reason": "Deep house and warm are direct matches to the curator’s tags. The track’s reflective mood may also suit the playlist’s flowing vibe."
+        },
+        {
+          "name": "Garden State of Mind",
+          "type": "playlist",
+          "subgenres": [
+            "organic house",
+            "downtempo"
+          ],
+          "vibe_tags": [
+            "earthy",
+            "organic",
+            "sunset"
+          ],
+          "submission_notes": "Add one sentence about the track",
+          "contact_style": "Submission form",
+          "reason": "Downtempo is an exact genre match, and the track’s reflective mood offers a reasonable fit with the curator’s sunset-oriented vibe."
+        }
+      ]
+    },
+    "bios": {
+      "short_bio": "Mira Sol is an independent producer based in Montreal who builds tracks from field recordings and hardware synths.",
+      "long_bio": "Mira Sol is an independent producer based in Montreal. Their music is built from field recordings and hardware synths, with influences including Four Tet and early Bonobo.",
+      "track_description": "“Glass Tides” is a deep house / downtempo track with a warm, nocturnal, reflective mood. It is scheduled for release on 2026-11-07. https://soundcloud.com/example/glass-tides"
+    },
+    "pitches": {
+      "pitches": [
+        {
+          "curator_name": "Afterhours Radio",
+          "subject": "Submission: Mira Sol — “Glass Tides”",
+          "body": "Hi Afterhours Radio,\n\nI’m Mira Sol, an independent producer based in Montreal. “Glass Tides” is warm, nocturnal deep house/downtempo built from field recordings and hardware synths. It feels like a fit for your late-night, warm sound. SoundCloud: https://soundcloud.com/example/glass-tides\n\nIf you need a private link, please let me know.\n\nBest,\nMira"
+        },
+        {
+          "curator_name": "Blue Hour Club",
+          "subject": "Mira Sol — “Glass Tides” (November 7, 2026)",
+          "body": "Hi Blue Hour Club — sharing “Glass Tides,” a warm, nocturnal deep house/downtempo track for a night-drive mood. It’s due out November 7, 2026. SoundCloud: https://soundcloud.com/example/glass-tides\n\nPlease let me know if you need the link shared privately.\n\n— Mira Sol"
+        },
+        {
+          "curator_name": "Deep End Notes",
+          "subject": "Mira Sol — “Glass Tides”",
+          "body": "Hi Deep End Notes,\n\nI’m sharing “Glass Tides,” a warm, reflective deep house/downtempo track built from field recordings and hardware synths. SoundCloud: https://soundcloud.com/example/glass-tides\n\nBest,\nMira Sol"
+        },
+        {
+          "curator_name": "Tidal Patterns",
+          "subject": "Submission: “Glass Tides” by Mira Sol",
+          "body": "“Glass Tides” is warm, reflective deep house/downtempo with a flowing, nocturnal feel. SoundCloud: https://soundcloud.com/example/glass-tides\n\n— Mira Sol"
+        },
+        {
+          "curator_name": "Garden State of Mind",
+          "subject": "Submission: Mira Sol — “Glass Tides”",
+          "body": "“Glass Tides” is a reflective deep house/downtempo track built from field recordings and hardware synths, with a warm, nocturnal mood. SoundCloud: https://soundcloud.com/example/glass-tides"
+        }
+      ]
+    },
+    "schedule": {
+      "schedule": [
+        {
+          "day": 1,
+          "date": "2026-10-28",
+          "platform": "Social",
+          "phase": "teaser",
+          "caption": "A warm, nocturnal mood is on the way. Mira Sol — “Glass Tides,” out November 7.",
+          "hashtags": [
+            "#GlassTides",
+            "#MiraSol",
+            "#DeepHouse",
+            "#Downtempo"
+          ]
+        },
+        {
+          "day": 2,
+          "date": "2026-10-29",
+          "platform": "Social",
+          "phase": "teaser",
+          "caption": "Field recordings and hardware synths shape the world of “Glass Tides.” November 7.",
+          "hashtags": [
+            "#GlassTides",
+            "#MiraSol",
+            "#FieldRecordings",
+            "#HardwareSynths"
+          ]
+        },
+        {
+          "day": 3,
+          "date": "2026-10-30",
+          "platform": "Social",
+          "phase": "teaser",
+          "caption": "A reflective deep house / downtempo track from Montreal. “Glass Tides” arrives November 7.",
+          "hashtags": [
+            "#GlassTides",
+            "#MiraSol",
+            "#Montreal",
+            "#DeepHouse",
+            "#Downtempo"
+          ]
+        },
+        {
+          "day": 4,
+          "date": "2026-10-31",
+          "platform": "Social",
+          "phase": "teaser",
+          "caption": "For the nocturnal hours: “Glass Tides” by Mira Sol, out November 7.",
+          "hashtags": [
+            "#GlassTides",
+            "#MiraSol",
+            "#Nocturnal",
+            "#Downtempo"
+          ]
+        },
+        {
+          "day": 5,
+          "date": "2026-11-01",
+          "platform": "Social",
+          "phase": "teaser",
+          "caption": "Warm textures, field recordings, hardware synths. “Glass Tides” lands November 7.",
+          "hashtags": [
+            "#GlassTides",
+            "#MiraSol",
+            "#FieldRecordings",
+            "#HardwareSynths"
+          ]
+        },
+        {
+          "day": 6,
+          "date": "2026-11-02",
+          "platform": "Social",
+          "phase": "teaser",
+          "caption": "A little more about the sound behind “Glass Tides”: deep house, downtempo, and a reflective mood.",
+          "hashtags": [
+            "#GlassTides",
+            "#MiraSol",
+            "#DeepHouse",
+            "#Downtempo"
+          ]
+        },
+        {
+          "day": 7,
+          "date": "2026-11-03",
+          "platform": "Social",
+          "phase": "teaser",
+          "caption": "Mira Sol’s “Glass Tides” is out this Saturday, November 7.",
+          "hashtags": [
+            "#GlassTides",
+            "#MiraSol",
+            "#NewMusic"
+          ]
+        },
+        {
+          "day": 8,
+          "date": "2026-11-04",
+          "platform": "Social",
+          "phase": "teaser",
+          "caption": "Made in Montreal from field recordings and hardware synths. “Glass Tides” arrives November 7.",
+          "hashtags": [
+            "#GlassTides",
+            "#MiraSol",
+            "#Montreal",
+            "#FieldRecordings"
+          ]
+        },
+        {
+          "day": 9,
+          "date": "2026-11-05",
+          "platform": "Social",
+          "phase": "teaser",
+          "caption": "Two days until “Glass Tides.” A warm, nocturnal release from Mira Sol.",
+          "hashtags": [
+            "#GlassTides",
+            "#MiraSol",
+            "#DeepHouse",
+            "#Downtempo"
+          ]
+        },
+        {
+          "day": 10,
+          "date": "2026-11-06",
+          "platform": "Social",
+          "phase": "teaser",
+          "caption": "Tomorrow: “Glass Tides,” a reflective deep house / downtempo track by Mira Sol.",
+          "hashtags": [
+            "#GlassTides",
+            "#MiraSol",
+            "#NewMusic",
+            "#Downtempo"
+          ]
+        },
+        {
+          "day": 11,
+          "date": "2026-11-07",
+          "platform": "Social",
+          "phase": "launch day",
+          "caption": "“Glass Tides” is out today. Listen here: https://soundcloud.com/example/glass-tides",
+          "hashtags": [
+            "#GlassTides",
+            "#MiraSol",
+            "#DeepHouse",
+            "#Downtempo"
+          ]
+        },
+        {
+          "day": 12,
+          "date": "2026-11-08",
+          "platform": "Social",
+          "phase": "follow-up",
+          "caption": "“Glass Tides” is here. Listen to Mira Sol’s warm, nocturnal deep house / downtempo track: https://soundcloud.com/example/glass-tides",
+          "hashtags": [
+            "#GlassTides",
+            "#MiraSol",
+            "#DeepHouse",
+            "#Downtempo"
+          ]
+        },
+        {
+          "day": 13,
+          "date": "2026-11-09",
+          "platform": "Social",
+          "phase": "follow-up",
+          "caption": "Built from field recordings and hardware synths, “Glass Tides” is out now: https://soundcloud.com/example/glass-tides",
+          "hashtags": [
+            "#GlassTides",
+            "#MiraSol",
+            "#FieldRecordings",
+            "#HardwareSynths"
+          ]
+        },
+        {
+          "day": 14,
+          "date": "2026-11-10",
+          "platform": "Social",
+          "phase": "follow-up",
+          "caption": "Spend a moment with “Glass Tides,” out now from Montreal-based producer Mira Sol: https://soundcloud.com/example/glass-tides",
+          "hashtags": [
+            "#GlassTides",
+            "#MiraSol",
+            "#Montreal",
+            "#Downtempo"
+          ]
+        }
+      ]
+    }
+  },
+  "usage": {
+    "Curator Matcher": {
+      "input_tokens": 749,
+      "cached_input_tokens": 0,
+      "output_tokens": 701,
+      "cost_usd": 0.0004254,
+      "cache_write_tokens": 0
+    },
+    "Bio Writer": {
+      "input_tokens": 229,
+      "cached_input_tokens": 0,
+      "output_tokens": 205,
+      "cost_usd": 0.0001254,
+      "cache_write_tokens": 0
+    },
+    "Pitch Writer": {
+      "input_tokens": 761,
+      "cached_input_tokens": 0,
+      "output_tokens": 963,
+      "cost_usd": 0.0005576,
+      "cache_write_tokens": 0
+    },
+    "Caption Scheduler": {
+      "input_tokens": 652,
+      "cached_input_tokens": 0,
+      "output_tokens": 1051,
+      "cost_usd": 0.0005907,
+      "cache_write_tokens": 0
+    }
+  },
+  "total_usage": {
+    "input_tokens": 2391,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 0,
+    "output_tokens": 2920,
+    "cost_usd": 0.0016991
+  },
+  "cost_note": "Repriced from stored token counts. The original run log did not record cache_write_tokens; assumed 0 for this historical recalculation."
+}

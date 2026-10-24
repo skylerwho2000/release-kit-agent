@@ -1,0 +1,350 @@
+{
+  "timestamp": "2026-10-24T05:35:26.260877+00:00",
+  "inputs": {
+    "artist_name": "Nola Fern",
+    "track_title": "Soft Current",
+    "genre": "ambient / downtempo",
+    "moods": [
+      "spacious",
+      "meditative",
+      "gentle"
+    ],
+    "influences": [
+      "field recordings"
+    ],
+    "release_date": "2026-11-23",
+    "about": "An independent producer making slow electronic pieces from found sounds.",
+    "links": "https://example.com/nola"
+  },
+  "outputs": {
+    "curators": {
+      "matches": [
+        {
+          "name": "Soft Focus Sounds",
+          "type": "playlist",
+          "subgenres": [
+            "downtempo",
+            "ambient"
+          ],
+          "vibe_tags": [
+            "dreamy",
+            "soft",
+            "reflective"
+          ],
+          "submission_notes": "No attachments; private streaming link",
+          "contact_style": "Submission form",
+          "reason": "The track is tagged ambient / downtempo, matching both listed subgenres, and its gentle mood fits the curator’s soft vibe."
+        },
+        {
+          "name": "Stillwater FM",
+          "type": "radio",
+          "subgenres": [
+            "ambient",
+            "drone"
+          ],
+          "vibe_tags": [
+            "meditative",
+            "spacious",
+            "slow"
+          ],
+          "submission_notes": "Include track length and release date",
+          "contact_style": "Submission form",
+          "reason": "The track’s ambient genre and meditative, spacious moods directly match the curator’s ambient focus and meditative, spacious vibe tags."
+        },
+        {
+          "name": "Weightless Club",
+          "type": "playlist",
+          "subgenres": [
+            "ambient",
+            "drone",
+            "new age"
+          ],
+          "vibe_tags": [
+            "spacious",
+            "meditative",
+            "soft"
+          ],
+          "submission_notes": "No attachments; streaming links only",
+          "contact_style": "Submission form",
+          "reason": "The ambient genre aligns with the curator’s ambient subgenre, while the track’s spacious and meditative moods match two of its vibe tags; its gentle mood also fits the soft vibe."
+        },
+        {
+          "name": "Moss & Melodies",
+          "type": "playlist",
+          "subgenres": [
+            "downtempo",
+            "organic house"
+          ],
+          "vibe_tags": [
+            "earthy",
+            "dreamy",
+            "gentle"
+          ],
+          "submission_notes": "No attachments; short note welcome",
+          "contact_style": "DM",
+          "reason": "The track’s downtempo genre matches the curator’s downtempo subgenre, and its gentle mood matches the curator’s gentle vibe tag."
+        },
+        {
+          "name": "Quiet Machines",
+          "type": "blog",
+          "subgenres": [
+            "ambient techno",
+            "dub techno"
+          ],
+          "vibe_tags": [
+            "spacious",
+            "hypnotic",
+            "patient"
+          ],
+          "submission_notes": "Send track and a short artist note",
+          "contact_style": "Email",
+          "reason": "The track’s ambient genre aligns with the ambient component of the listed subgenres, and its spacious mood matches the curator’s spacious vibe tag."
+        }
+      ]
+    },
+    "bios": {
+      "short_bio": "Nola Fern is an independent producer making slow electronic pieces from found sounds.",
+      "long_bio": "Nola Fern is an independent producer making slow electronic pieces from found sounds, with field recordings among their influences.",
+      "track_description": "“Soft Current” is an ambient / downtempo track described as spacious, meditative, and gentle. It is scheduled for release on November 23, 2026."
+    },
+    "pitches": {
+      "pitches": [
+        {
+          "curator_name": "Soft Focus Sounds",
+          "subject": "Submission: Nola Fern — “Soft Current”",
+          "body": "Hello Soft Focus Sounds,\n\nI’d love to submit “Soft Current,” an ambient / downtempo piece with a spacious, meditative, gentle feel, made from found sounds.\n\nListen: https://example.com/nola\n\nThank you,\nNola Fern"
+        },
+        {
+          "curator_name": "Stillwater FM",
+          "subject": "Submission: Nola Fern — “Soft Current”",
+          "body": "Hello Stillwater FM,\n\nPlease consider “Soft Current,” an ambient piece with a spacious, meditative feel.\n\nRelease date: 2026-11-23\nTrack length: not included in the details I have\nListen: https://example.com/nola\n\nThank you,\nNola Fern"
+        },
+        {
+          "curator_name": "Weightless Club",
+          "subject": "Submission: Nola Fern — “Soft Current”",
+          "body": "Hello Weightless Club,\n\nI’d love to share “Soft Current,” an ambient piece with a spacious, meditative, gentle feel, made from found sounds.\n\nListen: https://example.com/nola\n\nThank you,\nNola Fern"
+        },
+        {
+          "curator_name": "Moss & Melodies",
+          "subject": "“Soft Current” — Nola Fern",
+          "body": "Hi Moss & Melodies — I’m Nola Fern, an independent producer making slow electronic pieces from found sounds. My new track “Soft Current” is ambient / downtempo with a gentle feel. Here’s the link: https://example.com/nola"
+        },
+        {
+          "curator_name": "Quiet Machines",
+          "subject": "Submission: Nola Fern — “Soft Current”",
+          "body": "Hello Quiet Machines,\n\nPlease consider “Soft Current,” an ambient / downtempo track with a spacious feel, made from found sounds.\n\nI’m Nola Fern, an independent producer making slow electronic pieces from found sounds.\n\nListen: https://example.com/nola\n\nThank you,\nNola Fern"
+        }
+      ]
+    },
+    "schedule": {
+      "schedule": [
+        {
+          "day": 1,
+          "date": "2026-11-13",
+          "platform": "Social media",
+          "phase": "teaser",
+          "caption": "A gentle current is on its way. Nola Fern’s “Soft Current” arrives November 23.",
+          "hashtags": [
+            "#NolaFern",
+            "#SoftCurrent",
+            "#AmbientMusic"
+          ]
+        },
+        {
+          "day": 2,
+          "date": "2026-11-14",
+          "platform": "Social media",
+          "phase": "teaser",
+          "caption": "Slow electronic pieces made from found sounds. “Soft Current” arrives November 23.",
+          "hashtags": [
+            "#SoftCurrent",
+            "#FieldRecordings",
+            "#Downtempo"
+          ]
+        },
+        {
+          "day": 3,
+          "date": "2026-11-15",
+          "platform": "Social media",
+          "phase": "teaser",
+          "caption": "Make room for a spacious, meditative listen. “Soft Current” by Nola Fern, November 23.",
+          "hashtags": [
+            "#NolaFern",
+            "#Ambient",
+            "#MeditativeMusic"
+          ]
+        },
+        {
+          "day": 4,
+          "date": "2026-11-16",
+          "platform": "Social media",
+          "phase": "teaser",
+          "caption": "A new slow electronic piece is coming soon. Nola Fern’s “Soft Current” arrives November 23.",
+          "hashtags": [
+            "#SoftCurrent",
+            "#SlowElectronic",
+            "#Downtempo"
+          ]
+        },
+        {
+          "day": 5,
+          "date": "2026-11-17",
+          "platform": "Social media",
+          "phase": "teaser",
+          "caption": "Inspired by field recordings, “Soft Current” arrives November 23. — Nola Fern",
+          "hashtags": [
+            "#FieldRecordings",
+            "#NolaFern",
+            "#AmbientMusic"
+          ]
+        },
+        {
+          "day": 6,
+          "date": "2026-11-18",
+          "platform": "Social media",
+          "phase": "teaser",
+          "caption": "A little space to pause: Nola Fern’s “Soft Current” is out November 23.",
+          "hashtags": [
+            "#SoftCurrent",
+            "#SpaciousSounds",
+            "#Ambient"
+          ]
+        },
+        {
+          "day": 7,
+          "date": "2026-11-19",
+          "platform": "Social media",
+          "phase": "teaser",
+          "caption": "“Soft Current” is just around the corner. New ambient / downtempo from Nola Fern, November 23.",
+          "hashtags": [
+            "#NolaFern",
+            "#AmbientDowntempo",
+            "#ComingSoon"
+          ]
+        },
+        {
+          "day": 8,
+          "date": "2026-11-20",
+          "platform": "Social media",
+          "phase": "teaser",
+          "caption": "Gentle, meditative, spacious. “Soft Current” arrives November 23.",
+          "hashtags": [
+            "#SoftCurrent",
+            "#GentleSounds",
+            "#MeditativeMusic"
+          ]
+        },
+        {
+          "day": 9,
+          "date": "2026-11-21",
+          "platform": "Social media",
+          "phase": "teaser",
+          "caption": "Two days until “Soft Current” by Nola Fern. A slow electronic piece shaped by found sounds.",
+          "hashtags": [
+            "#NolaFern",
+            "#FieldRecordings",
+            "#SoftCurrent"
+          ]
+        },
+        {
+          "day": 10,
+          "date": "2026-11-22",
+          "platform": "Social media",
+          "phase": "teaser",
+          "caption": "Tomorrow: “Soft Current,” a new ambient / downtempo release from Nola Fern.",
+          "hashtags": [
+            "#SoftCurrent",
+            "#AmbientMusic",
+            "#Downtempo"
+          ]
+        },
+        {
+          "day": 11,
+          "date": "2026-11-23",
+          "platform": "Social media",
+          "phase": "launch day",
+          "caption": "“Soft Current” by Nola Fern is out today. Listen: https://example.com/nola",
+          "hashtags": [
+            "#NolaFern",
+            "#SoftCurrent",
+            "#NewMusic"
+          ]
+        },
+        {
+          "day": 12,
+          "date": "2026-11-24",
+          "platform": "Social media",
+          "phase": "follow-up",
+          "caption": "Take a moment with “Soft Current,” out now. Listen: https://example.com/nola",
+          "hashtags": [
+            "#SoftCurrent",
+            "#Ambient",
+            "#Downtempo"
+          ]
+        },
+        {
+          "day": 13,
+          "date": "2026-11-25",
+          "platform": "Social media",
+          "phase": "follow-up",
+          "caption": "Nola Fern makes slow electronic pieces from found sounds. “Soft Current” is out now: https://example.com/nola",
+          "hashtags": [
+            "#NolaFern",
+            "#FieldRecordings",
+            "#SoftCurrent"
+          ]
+        },
+        {
+          "day": 14,
+          "date": "2026-11-26",
+          "platform": "Social media",
+          "phase": "follow-up",
+          "caption": "A spacious, gentle listen for a quieter moment: “Soft Current” by Nola Fern. https://example.com/nola",
+          "hashtags": [
+            "#SoftCurrent",
+            "#SpaciousSounds",
+            "#AmbientMusic"
+          ]
+        }
+      ]
+    }
+  },
+  "usage": {
+    "Curator Matcher": {
+      "input_tokens": 735,
+      "cached_input_tokens": 0,
+      "output_tokens": 481,
+      "cost_usd": 0.000314,
+      "cache_write_tokens": 0
+    },
+    "Bio Writer": {
+      "input_tokens": 212,
+      "cached_input_tokens": 0,
+      "output_tokens": 192,
+      "cost_usd": 0.0001172,
+      "cache_write_tokens": 0
+    },
+    "Pitch Writer": {
+      "input_tokens": 750,
+      "cached_input_tokens": 0,
+      "output_tokens": 777,
+      "cost_usd": 0.0004635,
+      "cache_write_tokens": 0
+    },
+    "Caption Scheduler": {
+      "input_tokens": 635,
+      "cached_input_tokens": 0,
+      "output_tokens": 992,
+      "cost_usd": 0.0005595,
+      "cache_write_tokens": 0
+    }
+  },
+  "total_usage": {
+    "input_tokens": 2332,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 0,
+    "output_tokens": 2442,
+    "cost_usd": 0.0014542
+  },
+  "cost_note": "Repriced from stored token counts. The original run log did not record cache_write_tokens; assumed 0 for this historical recalculation."
+}

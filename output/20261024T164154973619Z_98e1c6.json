@@ -1,0 +1,350 @@
+{
+  "timestamp": "2026-10-24T16:41:54.973176+00:00",
+  "inputs": {
+    "artist_name": "Mira Sol",
+    "track_title": "Glass Tides",
+    "genre": "melodic techno",
+    "moods": [
+      "euphoric",
+      "hypnotic",
+      "late-night"
+    ],
+    "influences": [
+      "Four Tet",
+      "early Bonobo"
+    ],
+    "release_date": "2026-11-07",
+    "about": "A melodic techno project built around evolving synth lines and patient, late-night builds.",
+    "links": "https://soundcloud.com/example/glass-tides"
+  },
+  "outputs": {
+    "curators": {
+      "matches": [
+        {
+          "name": "Club Meridian",
+          "type": "blog",
+          "subgenres": [
+            "tech house",
+            "melodic techno"
+          ],
+          "vibe_tags": [
+            "club ready",
+            "driving",
+            "polished"
+          ],
+          "submission_notes": "Include clean link and short context",
+          "contact_style": "Email",
+          "reason": "The track is melodic techno, matching a listed subgenre. Its euphoric mood and patient late-night builds may suit the curator’s driving, club-ready vibe."
+        },
+        {
+          "name": "Motion Studies",
+          "type": "blog",
+          "subgenres": [
+            "progressive house",
+            "melodic techno"
+          ],
+          "vibe_tags": [
+            "emotional",
+            "driving",
+            "evolving"
+          ],
+          "submission_notes": "Include release date and artist bio",
+          "contact_style": "Email",
+          "reason": "The track’s melodic techno genre directly matches a listed subgenre. Its evolving synth lines and euphoric, hypnotic moods connect with the curator’s evolving and emotional tags."
+        },
+        {
+          "name": "Deep End Notes",
+          "type": "blog",
+          "subgenres": [
+            "deep house",
+            "dub techno"
+          ],
+          "vibe_tags": [
+            "understated",
+            "warm",
+            "hypnotic"
+          ],
+          "submission_notes": "Send one private link",
+          "contact_style": "Email",
+          "reason": "The track’s hypnotic mood matches the curator’s hypnotic tag, and its patient late-night builds offer a specific point of connection. The listed subgenres do not directly match melodic techno."
+        },
+        {
+          "name": "Quiet Machines",
+          "type": "blog",
+          "subgenres": [
+            "ambient techno",
+            "dub techno"
+          ],
+          "vibe_tags": [
+            "spacious",
+            "hypnotic",
+            "patient"
+          ],
+          "submission_notes": "Send track and a short artist note",
+          "contact_style": "Email",
+          "reason": "The track is hypnotic and built around evolving synth lines and patient builds, matching the curator’s hypnotic and patient tags. Its melodic techno genre is adjacent to the listed techno subgenres."
+        },
+        {
+          "name": "Redline Dispatch",
+          "type": "blog",
+          "subgenres": [
+            "techno",
+            "trance"
+          ],
+          "vibe_tags": [
+            "driving",
+            "urgent",
+            "euphoric"
+          ],
+          "submission_notes": "Include release date and private link",
+          "contact_style": "Email",
+          "reason": "The track’s melodic techno genre overlaps with the listed techno subgenre, and its euphoric mood matches the curator’s euphoric tag."
+        }
+      ]
+    },
+    "bios": {
+      "short_bio": "Mira Sol is a melodic techno project built around evolving synth lines and patient, late-night builds.",
+      "long_bio": "Mira Sol is a melodic techno project built around evolving synth lines and patient, late-night builds. Drawing on Four Tet and early Bonobo, the project moves through euphoric, hypnotic, late-night moods. Its sound unfolds with a sense of patience, letting the synth lines evolve as the builds gradually gather momentum.",
+      "track_description": "“Glass Tides” is a melodic techno track by Mira Sol, shaped by evolving synth lines and patient, late-night builds. Euphoric and hypnotic, it’s made for late-night listening. Released November 7, 2026."
+    },
+    "pitches": {
+      "pitches": [
+        {
+          "curator_name": "Club Meridian",
+          "subject": "Mira Sol — “Glass Tides”",
+          "body": "Hi Club Meridian,\n\nI’m sharing “Glass Tides,” a melodic techno track with euphoric moods and patient, late-night builds. Its genre matches your melodic techno listings, and its late-night energy may suit your driving, club-ready vibe.\n\nListen: https://soundcloud.com/example/glass-tides\n\nBest,\nMira Sol"
+        },
+        {
+          "curator_name": "Motion Studies",
+          "subject": "Mira Sol — “Glass Tides” | 2026-11-07",
+          "body": "Hi Motion Studies,\n\nI’m Mira Sol, a melodic techno project built around evolving synth lines and patient, late-night builds. My track “Glass Tides” is set for release on 2026-11-07. Its evolving synth lines and euphoric, hypnotic moods connect with your evolving and emotional tags.\n\nListen: https://soundcloud.com/example/glass-tides\n\nBest,\nMira Sol"
+        },
+        {
+          "curator_name": "Deep End Notes",
+          "subject": "Mira Sol — “Glass Tides”",
+          "body": "Hi Deep End Notes,\n\nI’m sharing “Glass Tides,” a melodic techno track with a hypnotic mood and patient, late-night builds. That hypnotic quality feels like a specific point of connection with your sound.\n\nPrivate link: [private link]\n\nBest,\nMira Sol"
+        },
+        {
+          "curator_name": "Quiet Machines",
+          "subject": "Mira Sol — “Glass Tides”",
+          "body": "Hi Quiet Machines,\n\nI’m sharing “Glass Tides,” a melodic techno track built around evolving synth lines and patient, late-night builds. Its hypnotic mood and patient builds connect with your hypnotic and patient tags.\n\nListen: https://soundcloud.com/example/glass-tides\n\nBest,\nMira Sol"
+        },
+        {
+          "curator_name": "Redline Dispatch",
+          "subject": "Mira Sol — “Glass Tides” | 2026-11-07",
+          "body": "Hi Redline Dispatch,\n\nI’m sharing “Glass Tides,” a melodic techno track set for release on 2026-11-07. Its genre overlaps with your techno listings, and its euphoric mood matches your euphoric tag.\n\nPrivate link: [private link]\n\nBest,\nMira Sol"
+        }
+      ]
+    },
+    "schedule": {
+      "schedule": [
+        {
+          "day": 1,
+          "date": "2026-11-01",
+          "platform": "Instagram",
+          "phase": "teaser",
+          "caption": "A new current is forming. Glass Tides is a melodic techno project shaped by evolving synth lines and patient, late-night builds.",
+          "hashtags": [
+            "#MiraSol",
+            "#GlassTides",
+            "#MelodicTechno"
+          ]
+        },
+        {
+          "day": 2,
+          "date": "2026-11-02",
+          "platform": "TikTok",
+          "phase": "teaser",
+          "caption": "Stay with the build. Glass Tides, coming soon.",
+          "hashtags": [
+            "#MiraSol",
+            "#GlassTides",
+            "#MelodicTechno"
+          ]
+        },
+        {
+          "day": 3,
+          "date": "2026-11-03",
+          "platform": "Instagram",
+          "phase": "teaser",
+          "caption": "Hypnotic lines, a slow rise, and the feeling of a late night stretching on. A glimpse into Glass Tides by Mira Sol.",
+          "hashtags": [
+            "#MiraSol",
+            "#GlassTides",
+            "#HypnoticTechno"
+          ]
+        },
+        {
+          "day": 4,
+          "date": "2026-11-04",
+          "platform": "TikTok",
+          "phase": "teaser",
+          "caption": "Evolving synth lines. Patient builds. Glass Tides is near.",
+          "hashtags": [
+            "#MiraSol",
+            "#GlassTides",
+            "#MelodicTechno"
+          ]
+        },
+        {
+          "day": 5,
+          "date": "2026-11-05",
+          "platform": "Instagram",
+          "phase": "teaser",
+          "caption": "For the hours when the night opens up: Glass Tides moves through melodic techno with an euphoric, hypnotic pull.",
+          "hashtags": [
+            "#MiraSol",
+            "#GlassTides",
+            "#LateNightMusic"
+          ]
+        },
+        {
+          "day": 6,
+          "date": "2026-11-06",
+          "platform": "TikTok",
+          "phase": "teaser",
+          "caption": "One more night until Glass Tides arrives.",
+          "hashtags": [
+            "#MiraSol",
+            "#GlassTides",
+            "#NewMusic"
+          ]
+        },
+        {
+          "day": 7,
+          "date": "2026-11-07",
+          "platform": "Instagram",
+          "phase": "launch day",
+          "caption": "Glass Tides is out today. Mira Sol’s melodic techno project unfolds through evolving synth lines and patient, late-night builds. Listen: https://soundcloud.com/example/glass-tides",
+          "hashtags": [
+            "#MiraSol",
+            "#GlassTides",
+            "#MelodicTechno",
+            "#OutNow"
+          ]
+        },
+        {
+          "day": 8,
+          "date": "2026-11-08",
+          "platform": "TikTok",
+          "phase": "follow-up",
+          "caption": "Let the synth lines unfold. Glass Tides is out now.",
+          "hashtags": [
+            "#MiraSol",
+            "#GlassTides",
+            "#MelodicTechno"
+          ]
+        },
+        {
+          "day": 9,
+          "date": "2026-11-09",
+          "platform": "Instagram",
+          "phase": "follow-up",
+          "caption": "Glass Tides leaves room for the build to breathe—an evolving melodic techno journey with a late-night focus. Find it here: https://soundcloud.com/example/glass-tides",
+          "hashtags": [
+            "#MiraSol",
+            "#GlassTides",
+            "#LateNightMusic"
+          ]
+        },
+        {
+          "day": 10,
+          "date": "2026-11-10",
+          "platform": "TikTok",
+          "phase": "follow-up",
+          "caption": "A hypnotic late-night current: Glass Tides by Mira Sol.",
+          "hashtags": [
+            "#MiraSol",
+            "#GlassTides",
+            "#HypnoticTechno"
+          ]
+        },
+        {
+          "day": 11,
+          "date": "2026-11-11",
+          "platform": "Instagram",
+          "phase": "follow-up",
+          "caption": "Patient builds, evolving synth lines, and a lift toward the euphoric. Revisit Glass Tides by Mira Sol.",
+          "hashtags": [
+            "#MiraSol",
+            "#GlassTides",
+            "#EuphoricTechno"
+          ]
+        },
+        {
+          "day": 12,
+          "date": "2026-11-12",
+          "platform": "TikTok",
+          "phase": "follow-up",
+          "caption": "Give the build a moment. Glass Tides is on SoundCloud.",
+          "hashtags": [
+            "#MiraSol",
+            "#GlassTides",
+            "#SoundCloud"
+          ]
+        },
+        {
+          "day": 13,
+          "date": "2026-11-13",
+          "platform": "Instagram",
+          "phase": "follow-up",
+          "caption": "A melodic techno project for the late hours, built around synth lines that keep evolving. Glass Tides is here: https://soundcloud.com/example/glass-tides",
+          "hashtags": [
+            "#MiraSol",
+            "#GlassTides",
+            "#MelodicTechno"
+          ]
+        },
+        {
+          "day": 14,
+          "date": "2026-11-14",
+          "platform": "TikTok",
+          "phase": "follow-up",
+          "caption": "Still riding that late-night build? Find Glass Tides by Mira Sol.",
+          "hashtags": [
+            "#MiraSol",
+            "#GlassTides",
+            "#LateNightMusic"
+          ]
+        }
+      ]
+    }
+  },
+  "usage": {
+    "Curator Matcher": {
+      "input_tokens": 748,
+      "cached_input_tokens": 0,
+      "cache_write_tokens": 0,
+      "output_tokens": 533,
+      "cost_usd": 0.0003413
+    },
+    "Bio Writer": {
+      "input_tokens": 324,
+      "cached_input_tokens": 0,
+      "cache_write_tokens": 0,
+      "output_tokens": 437,
+      "cost_usd": 0.0002509
+    },
+    "Pitch Writer": {
+      "input_tokens": 963,
+      "cached_input_tokens": 0,
+      "cache_write_tokens": 0,
+      "output_tokens": 806,
+      "cost_usd": 0.0004993
+    },
+    "Caption Scheduler": {
+      "input_tokens": 761,
+      "cached_input_tokens": 0,
+      "cache_write_tokens": 0,
+      "output_tokens": 1091,
+      "cost_usd": 0.0006216
+    }
+  },
+  "total_usage": {
+    "input_tokens": 2796,
+    "cached_input_tokens": 0,
+    "cache_write_tokens": 0,
+    "output_tokens": 2867,
+    "cost_usd": 0.0017131
+  }
+}
